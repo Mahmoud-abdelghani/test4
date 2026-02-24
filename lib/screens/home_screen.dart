@@ -3,4 +3,6 @@ HomeScreen code
 
 add cntainer
 
+adding app bar
+
 */
